@@ -1,8 +1,9 @@
 Bellaworks Starter Theme
 =======
 
-##Works on macOS Monterey[^1]
-##Requires Node version 16+[^1]
+[^note]:
+Works on macOS Monterey
+Requires Node version 16+
 
 * Works on macOS Monterey
 * Requires Node version 16+

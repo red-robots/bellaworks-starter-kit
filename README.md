@@ -6,7 +6,7 @@ Bellaworks Starter Theme
 
 
 #### WARNING!!
-DO NOT UPGRADE NODE to 17. OTHERWISE SOME PACKAGES WILL NOT WORK.
+Upgrading to Node version 17 is NOT recommended. Otherwise, some packages may not work.
 
 
 Good luck!

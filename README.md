@@ -5,7 +5,7 @@ Bellaworks Starter Theme
 * Requires Node version 16+
 
 
-### WARNING!!
+#### WARNING!!
 DO NOT UPGRADE NODE to 17. OTHERWISE SOME PACKAGES WILL NOT WORK.
 
 

@@ -6,8 +6,12 @@ My Bellaworks Starter Theme
 
 
 #### WARNING!!!
-Upgrading to Node version 17 is NOT recommended. Otherwise, some packages may not work.
+Upgrading to Node v17 is NOT recommended. Otherwise, some packages may not work.
 
 
-## Good luck!
+### Recommended Versions 
+* node: v16.13.1
+* npm: 8.1.2
+* npx: 8.1.2
+* gulp: 4.0.2
 
